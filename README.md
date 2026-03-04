@@ -1,5 +1,7 @@
 # JOIS 2024
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18860210.svg)](https://doi.org/10.5281/zenodo.18860210)
+
 Expedition from 30/08/2024 – 25/09/2024 on the Louis St. Laurent. Departed Cambridge Bay, Nunavut, Canada. Returned to Cambridge Bay, Nunavut, Canada.
 
 Questions regarding JOIS data should be sent to Núria Casacuberta, ETHZ: nuria.casacubertaarola@usys.ethz.ch
